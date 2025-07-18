@@ -12,6 +12,6 @@ public class Controlador {
 
     @GetMapping("/saludo")
     public String saludo(){
-        return "Hola mundo";
+        return "Hola";
     }
 }
